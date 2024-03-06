@@ -1,0 +1,7 @@
+{
+  "name": "clubvue",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
